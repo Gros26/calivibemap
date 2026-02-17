@@ -1,0 +1,10 @@
+{
+    "id": 6,
+    "name": "Juan David Lopez Vanegas",
+    "lat": 3.4324142835768496, 
+    "lng": -76.54705296159543,
+    "photo": "./images/juandavid.gif",
+    "likes": ["Música", "Salchipapa"],
+    "dislikes": ["Fila de central", "el calor"],
+    "socialMedia": "@juan_lv25"
+}

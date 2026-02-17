@@ -1,0 +1,10 @@
+{
+    "id": 77,
+    "name": "Juan Manuel Moreno",
+    "lat": 3.3927580373745276,
+    "lng": -76.53084550647642,
+    "photo": "./images/moreno.gif",
+    "likes": ["Juegos", "Futbol"],
+    "dislikes": ["Andar en mio"],
+    "socialMedia": "@juanmmoren0"
+}
